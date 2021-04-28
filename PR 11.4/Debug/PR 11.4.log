@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\University\Algoritmizaciya and programyvanya\PR 11.4\PR 11.4\Source.cpp(256,11): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\University\Algoritmizaciya and programyvanya\PR 11.4\PR 11.4\Source.cpp(290,11): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  PR 11.4.vcxproj -> D:\University\Algoritmizaciya and programyvanya\PR 11.4\Debug\PR 11.4.exe
